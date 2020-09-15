@@ -19,7 +19,7 @@ import Security.MD5.MD5;
 import Security.RSA.RSA;
 
 //这是服务器的一个线程
-public class TGS implements Runnable{
+public class TGS extends Thread{
 	 private Socket socket;
 	 byte [] message=new byte[8216];
 	 SimpleDateFormat format = new SimpleDateFormat("yyyyMMddHHmmss");

@@ -18,6 +18,7 @@ public class ServerForMultiClient {
         executorService=Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors()*POOL_SIZE);
         System.out.println("TGS has started!");
     }
+    //多线程添加
     public void service(){
         while(true){
             Socket socket=null;
