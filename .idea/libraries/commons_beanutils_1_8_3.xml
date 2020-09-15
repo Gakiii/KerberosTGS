@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/fastjson-1.2.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CSjars/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
